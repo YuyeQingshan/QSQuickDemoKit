@@ -1,0 +1,3 @@
+target 'QSQuickDemoKit_example' do
+  pod 'QSQuickDemoKit', :path => '../'
+end

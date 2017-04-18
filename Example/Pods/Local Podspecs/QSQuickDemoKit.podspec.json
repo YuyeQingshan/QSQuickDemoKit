@@ -1,0 +1,28 @@
+{
+  "name": "QSQuickDemoKit",
+  "version": "0.1.0",
+  "summary": "A short description of QSQuickDemoKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/YuyeQingshan/QSQuickDemoKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "YuyeQingshan": "yuyeqingshan@gmail.com"
+  },
+  "source": {
+    "git": "git@github.com:YuyeQingshan/QSQuickDemoKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "QSQuickDemoKit/Classes/**/*",
+  "public_header_files": "QSQuickDemoKit/Classes/**/*.h",
+  "dependencies": {
+    "ChameleonFramework": [
+
+    ]
+  }
+}

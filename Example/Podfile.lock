@@ -1,0 +1,21 @@
+PODS:
+  - ChameleonFramework (2.1.0):
+    - ChameleonFramework/Default (= 2.1.0)
+  - ChameleonFramework/Default (2.1.0)
+  - QSQuickDemoKit (0.1.0):
+    - ChameleonFramework
+
+DEPENDENCIES:
+  - QSQuickDemoKit (from `../`)
+
+EXTERNAL SOURCES:
+  QSQuickDemoKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ChameleonFramework: d21a3cc247abfe5e37609a283a8238b03575cf64
+  QSQuickDemoKit: a0be52c1afd0c49a1ce0c8bf2d87ddcdec5c6b98
+
+PODFILE CHECKSUM: 54a28f37464823e66cb159fac2360a26435d0f27
+
+COCOAPODS: 1.1.1
