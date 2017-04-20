@@ -16,7 +16,7 @@ QSQuickDemoKit is available through [CocoaPods](http://cocoapods.org). To instal
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'QSQuickDemoKit', :git => 'git@github.com:YuyeQingshan/QSQuickDemoKit.git', :branch => 'master'
+pod 'QSQuickDemoKit', :git => 'https://github.com/YuyeQingshan/QSQuickDemoKit.git', :branch => 'master'
 ```
 
 ## License
